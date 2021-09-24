@@ -1,4 +1,4 @@
-package no.kristiania;
+/*package no.kristiania;
 
 import javax.imageio.IIOException;
 import java.io.IOException;
@@ -27,3 +27,4 @@ public class http {
 
     }
 }
+*/
